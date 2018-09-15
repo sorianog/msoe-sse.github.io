@@ -10,15 +10,15 @@ _Ratified: July 26, 2016_
 ## DEFINITIONS
 ## ARTICLE I: Name and Purpose
 ### Section 1: Name
-The name of this Organization shall be the Society of Software Engineers, hereafter referred to as the Organization. The official acronym shall be SSE
+The name of this Organization shall be the Society of Software Engineers, hereafter referred to as the Organization. The official acronym shall be SSE.
 ### Section 2: Purposes
-The principal purpose of this Organization shall be to improve the experience of students enrolled in the Software Engineering program at the Milwaukee School of Engineering by providing opportunities for collaboration, further education, and representation among other departments at the university. Other goals include increasing enrollment in the program, generating interest in software technology among all students, and guiding new Software Engineering students in integrating with the program.
+The principal purpose of this Organization shall be to improve the experience of students enrolled in the Software Engineering program at the Milwaukee School of Engineering (MSOE) by providing opportunities for collaboration, further education, and representation among other departments at the university. Other goals include increasing enrollment in the program, generating interest in software technology among all students, and guiding new Software Engineering students in integrating with the program.
 ## ARTICLE II: Membership
 ###Section 1: Qualification for Membership
 Members must be pursuing (or already hold) a degree from MSOE. There are no other qualifications. Consistent with all applicable federal and state laws and MSOE policies, this Organization and its subordinate bodies and officers shall not discriminate for or against anyone on the basis of race, gender, religion, culture, or sexual orientation.
 ### Section 2: Responsibilities of Members 
 1. Members should attend all monthly meetings held by the Organization.
-2. Members should attend events sponsored / held by the Organization if able.
+2. Members should attend events sponsored/held by the Organization if able.
 3. Members should offer suggestions for and help plan activities run by the Organization.
 4. Members should seek opportunities to improve the Software Engineering program and community.
 5. Members should encourage other interested students to participate in events held by the Organization.
@@ -94,6 +94,3 @@ The Executive board has the right to disband a committee by a simple majority vo
 ## ARTICLE VI: Amendments
 ### Section 1: Amendment Process
 These Articles may be amended by a vote of ⅔ of the members present at a monthly meeting ⅔ majority vote at a general meeting. A notice and a copy of any proposed amendment shall be distributed to all members at least 1 meeting prior to the meeting at which the amendment is to be considered.  The members shall be notified of adopted constitutional amendments by the most feasible means. Amendments may be submitted by any member.
-
-
-
